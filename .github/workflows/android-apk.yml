@@ -2,6 +2,7 @@
 name: Build Photo Reminder APK
 
 on:
+  push:
   workflow_dispatch:
 
 jobs:
